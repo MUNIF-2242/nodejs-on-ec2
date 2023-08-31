@@ -49,6 +49,7 @@ Run below command to clone the code repository from Github:
 
 ```bash
 git clone https://github.com/yeshwanthlm/nodejs-on-ec2.git
+ls -lrt
 ```
 
 Get inside the directory and Install Packages
